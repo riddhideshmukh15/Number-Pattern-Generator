@@ -101,4 +101,3 @@ This project helps practice:
 
 **Riddhi Deshmukh**
 
-A beginner Python project created for learning and practicing programming fundamentals.
